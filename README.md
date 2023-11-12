@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi, I'm Ahmed 👋</h1>
+<h1 align="center">Hi, I'm Mohamed 👋</h1>
 <p align="center">
-    <a href="https://twitter.com/mohamed_abusrea"><img src="[https://img.shields.io/badge/twitter-%231FA1F1](https://twitter.com/aboameen23)?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mohamedabusrea"><img src="[https://img.shields.io/badge/linkedin-%230177B5](https://www.linkedin.com/in/ahmed-mohamed-el-ameen-06177a202/)?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mohamed_abusrea"><img src="[https://img.shields.io/badge/instagram-%23E4415F](https://www.instagram.com/aboameen230/)?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://twitter.com/aboameen23"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ahmed-mohamed-el-ameen-06177a202/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/aboameen230/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
 
 - 👋 Hi, I’m @aboameen230
